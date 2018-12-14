@@ -1,6 +1,5 @@
-# Ian Michael Jesu Alvarez
-# CPSC 386 (Friday)
-# This creates the window for the whole game
+# Paul Kem
+
 
 import pygame
 import time
